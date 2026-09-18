@@ -92,7 +92,4 @@ Open MATLAB, set the project folder as the working directory, and run the main s
 
 ---
 
-## 👤 Author
 
-Developed as coursework for **Computational Linear Algebra** (2025/2026).
-Feel free to explore each subfolder for the full code, datasets, and detailed reports (PDF) with methodology, derivations, and discussion of results.
